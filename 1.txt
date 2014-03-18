@@ -1,0 +1,37 @@
+
+
+
+
+     It started with...
+
+  <FONT COLOR=LightGoldenrodYellow><BLINK><MARQUEE>
+  ______   __   __  _______  __   __  ___        _______  _______  __    _  _______
+ |      | |  | |  ||       ||  |_|  ||   |      |       ||       ||  |  | ||       |
+ |  _    ||  |_|  ||_     _||       ||   |      |       ||   _   ||   |_| ||    ___|
+ | | |   ||       |  |   |  |       ||   |      |       ||  | |  ||       ||   |___
+ | |_|   ||       |  |   |  |       ||   |___   |      _||  |_|  ||  _    ||    ___|
+ |       ||   _   |  |   |  | ||_|| ||       |  |     |_ |       || | |   ||   |
+ |______| |__| |__|  |___|  |_|   |_||_______|  |_______||_______||_|  |__||___|
+ </BLINK>
+
+
+        http://dhtmlconf.com/
+
+
+  1. Macromedia Dreamweaver Demo
+
+  2. Origins of the X11 colors (http://cng.seas.rochester.edu/CNG/docs/x11color.html)
+
+  3. Internet Explorer 6 and ViewLink
+
+  4. Substack reimplemented Flash
+
+
+
+
+
+
+  bibliography
+  -----
+
+  x11 color history: http://lists.w3.org/Archives/Public/www-style/2014Mar/0272.html
